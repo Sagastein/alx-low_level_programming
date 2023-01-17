@@ -1,1 +1,1 @@
-get in c programing language
+0x0A-argc_argv arguments that are passed to the main fuction
