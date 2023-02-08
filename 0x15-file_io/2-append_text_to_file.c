@@ -1,4 +1,5 @@
 #include "main.h"
+
 size_t _strlen(char *str)
 {
 	size_t i;
@@ -7,6 +8,7 @@ size_t _strlen(char *str)
 		;
 	return (i);
 }
+
 int append_text_to_file(const char *filename, char *text_content)
 {
 	int fd;
