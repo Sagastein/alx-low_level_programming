@@ -1,1 +1,1 @@
-0x0A-argc_argv arguments that are passed to the main fuction
+0x0A-argc_argv arguments that are passed to the main fuction c programming language
